@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzBTIwYlrymeL6MLfESGwGpXfQywI8V0/gPo9A2/jP8X5VfXbOdzB2CXlup+Tqe3PpMUaAPLR6yd4EybExwcyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erman\\OneDrive\\Masaüstü\\PROJECT\\C#\\Track\\PDFconverter\\PDFconverter\\PDFconverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erman\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\erman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\erman\\.nuget\\packages\\pdfiumviewer\\2.13.0\\pdfiumviewer.2.13.0.nupkg.sha512",
+    "C:\\Users\\erman\\.nuget\\packages\\pdfiumviewer.native.x86_64.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86_64.v8-xfa.2018.4.8.256.nupkg.sha512",
+    "C:\\Users\\erman\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PdfiumViewer 2.13.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PdfiumViewer",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
